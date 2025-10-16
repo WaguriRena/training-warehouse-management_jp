@@ -62,6 +62,7 @@
   - File -> New -> Project -> Project from existing source -> `beginner/demo/demo` -> import project from external model -> Gradleを選択 -> Create
   - files -> Project Structure -> Platform Settings -> SDKs -> 11を選択 -> OK
   - [参考画像](https://github.com/Git-MuramatsuT/training-warehouse-management_jp/blob/step1-client-and-server/intellij.md)
+  - 上記設定が完了したら、Step1のブランチを選択し、「チェックアウト」でブランチを切り替えておいてください。
 
 - [こちら](https://code.visualstudio.com/)から`VSCode`をインストールします。
   - 下記の拡張機能をインストールしておいて下さい。
